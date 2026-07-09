@@ -1,0 +1,16 @@
+# AutoGeoReferencing dependencies.
+# The project runs on /opt/anaconda3/bin/python (see CLAUDE.md).
+# Versions below are the known-working set as of 2026-06-10;
+# newer minor versions are normally fine.
+
+numpy>=2.0
+opencv-python>=4.10
+Pillow>=10.0
+torch>=2.4
+easyocr>=1.7
+scipy>=1.14
+scikit-learn>=1.5
+scikit-image>=0.24
+
+# Optional: drag & drop support in georef_gui.py
+# tkinterdnd2

@@ -1,0 +1,39 @@
+# --- Data & model weights: NEVER commit to this public repo ---
+# Copyrighted geodetic database and map imagery, plus derived weights.
+Map_Scans/
+Control_Points/
+Control_Maps/
+output/
+outputs/
+*.pth
+*.pkl
+*.onnx
+*.tif
+*.tiff
+*.jgw
+*.tfw
+*.tfwx
+*.aux.xml
+
+# Templates extracted from scans
+scripts/templates/
+
+# Training data
+training_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
