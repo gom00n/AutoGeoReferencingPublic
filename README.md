@@ -1,5 +1,10 @@
 # AutoGeoReferencing
 
+> **Public showcase of a tool I built and run in production at work.** The working
+> repository is private — it holds the development history, the client's map archive
+> and site-specific configuration. This version carries the code, the documentation
+> and public-domain example imagery only, which is why it lands as a single commit.
+
 **Automatic georeferencing of scanned 1:20,000 historical maps of Palestine (1940s).**
 
 These maps are printed with small **triangulation-point symbols** (a triangle with a
